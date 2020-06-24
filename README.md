@@ -10,6 +10,6 @@
   <li>CSS</li>
   <li>JAVACSRIPT</li>
   </ul>
+  <hr>
   
-  
-<p>This game is created with the help of the tutorial created by <a href="https://www.youtube.com/watch?v=28VfzEiJgy4"> Web Dev Simplified.</a>
+<p><i>This game is purely created with the help of the tutorial created by <a href="https://www.youtube.com/watch?v=28VfzEiJgy4"> Web Dev Simplified.</i></a>
